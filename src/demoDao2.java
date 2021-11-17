@@ -9,5 +9,5 @@
  * @author ASUS
  */
 public class demoDao2 {
-    
+    String demodao2;
 }
